@@ -1,0 +1,26 @@
+path: /home/msi/Dev/ml/seni_komputer/quiz2/dataset
+train: yolo_train_data/images
+val: yolo_train_data/images
+
+#Classes
+names:
+  0: Anggoro Andi
+  1: Antonius Natael
+  2: Aries Kusnandar
+  3: Azan Maghrib
+  4: Debby
+  5: Eko Nursetyo
+  6: Fauzan Izha
+  7: Frida Wahyu
+  8: Gunawan Winahyu
+  9: Hartono
+  10: Hentra Eka
+  11: Hendra Rizmawan
+  12: Irawan
+  13: Munawar Harizi
+  14: Prima Gravigardia
+  15: Ridha Tawaballah
+  16: Riyanto SE
+  17: Teguh Wibawanto
+  18: Thesy Bonita
+  19: Yohanes Franky
